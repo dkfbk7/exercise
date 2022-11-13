@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	max-width: 800px;
+	margin: auto;
+	padding: 40px 35px; 
+	border: 2px solid orange;
+	line-height: 45px;
+}
+
+.container input {
+	padding: 5px;
+	font-size: 16px;
+}
+
+.container #check {
+	padding: 15px;;
+	background-color: green;
+	color: #fff;
+	font-size: 18px;
+	border: none;
+	border-radius: 10px;
+	width: 15%;
+}
